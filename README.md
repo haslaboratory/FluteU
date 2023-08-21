@@ -3,8 +3,10 @@ MBoom
 
 # 这是什么
 
-- 乱序双发射MIPS处理器，已上板验证测试通过
-- 指令列表：[config/Instructions.scala](src/main/scala/mboom/config/Instructions.scala)
+- 乱序双发射MIPS处理器，已上板验证测试通过。
+- 指令列表：[config/Instructions.scala](src/main/scala/mboom/config/Instructions.scala)。
+- 性能分 110MHZ 83.5。
+- Linux 运行上板验证通过。
 
 # 如何运行
 
